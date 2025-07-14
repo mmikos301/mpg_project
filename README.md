@@ -40,7 +40,7 @@ This project focuses on analyzing and modeling fuel efficiency (measured in mile
    - Key factors influencing MPG
    - Model performance and potential improvements
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
